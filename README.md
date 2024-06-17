@@ -1,9 +1,6 @@
-![Header](https://raw.githubusercontent.com/your-username/your-repo/main/header.png)
 
 ### Hi there 👋, I'm Kartik Kenche!
-#### Full Stack Developer | Open Source Enthusiast | Tech Blogger
-
-![Profile views](https://gpvc.arturio.dev/Kartik-Kenche) 
+#### Full Stack Developer | Open Source Enthusiast | Tech Engineer 
 
 ---
 
@@ -55,7 +52,3 @@
 
 ---
 
-**🎯 Fun Fact:**
-- Did you know you can customize your GitHub profile README to make it stand out? Just like this one!
-
-![Footer](https://raw.githubusercontent.com/your-username/your-repo/main/footer.png)
