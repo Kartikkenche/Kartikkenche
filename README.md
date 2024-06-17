@@ -17,23 +17,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
----
-
-**📈 GitHub Stats:**
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartik-Kenche&show_icons=true&theme=radical)
-
----
-
-**🏆 GitHub Trophies:**
-
----
-
 **🌟 Top Languages:**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
----
+
 
 **💬 Connect with me:**
 
@@ -41,13 +29,4 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/https://x.com/itz_kartik_302/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:kartikkenche96@gmail.com)
 
-
----
-
-**📂 Featured Repositories:**
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo&theme=radical)](https://github.com/your-username/your-repo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=another-repo&theme=radical)](https://github.com/your-username/another-repo)
-
----
 
