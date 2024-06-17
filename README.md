@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Kartik Kenche!
 #### Full Stack Developer | Open Source Enthusiast | Tech Blogger
 
-![Profile views](https://gpvc.arturio.dev/Kartik Kenche) 
+![Profile views](https://gpvc.arturio.dev/Kartik-Kenche) 
 
 ---
 
