@@ -27,8 +27,6 @@
 
 **🏆 GitHub Trophies:**
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Kartik-Kenche &theme=onedark)
-
 ---
 
 **🌟 Top Languages:**
@@ -39,9 +37,10 @@
 
 **💬 Connect with me:**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/kartik-kenche-2b48432b4/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/https://x.com/itz_kartik_302/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:kartikkenche96@gmail.com)
+
 
 ---
 
