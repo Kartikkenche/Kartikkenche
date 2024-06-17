@@ -1,9 +1,9 @@
 ![Header](https://raw.githubusercontent.com/your-username/your-repo/main/header.png)
 
-### Hi there 👋, I'm [Your Name]!
+### Hi there 👋, I'm Kartik Kenche!
 #### Full Stack Developer | Open Source Enthusiast | Tech Blogger
 
-![Profile views](https://gpvc.arturio.dev/your-username) 
+![Profile views](https://gpvc.arturio.dev/Kartik Kenche) 
 
 ---
 
@@ -24,13 +24,13 @@
 
 **📈 GitHub Stats:**
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartik-Kenche&show_icons=true&theme=radical)
 
 ---
 
 **🏆 GitHub Trophies:**
 
-![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=Kartik-Kenche &theme=onedark)
 
 ---
 
@@ -44,18 +44,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/your-profile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:your-email@gmail.com)
-[![Blog](https://img.shields.io/badge/-Blog-FFA500?style=flat&logo=rss)](https://yourblog.com)
-
----
-
-**📜 Latest Blog Posts:**
-
-<!-- BLOG-POST-LIST:START -->
-- [Post Title 1](https://yourblog.com/post1)
-- [Post Title 2](https://yourblog.com/post2)
-- [Post Title 3](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:kartikkenche96@gmail.com)
 
 ---
 
