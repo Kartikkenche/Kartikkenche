@@ -1,7 +1,6 @@
 
 ### Hi there 👋, I'm Kartik Kenche!
-#### Full Stack Developer | Open Source Enthusiast | Tech Engineer 
-
+#### Web Developer | Open Source Enthusiast | Electronics and Communication Engineering Student
 ---
 
 **🛠️ Languages and Tools:**
