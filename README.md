@@ -1,6 +1,6 @@
 
 ### Hi there 👋, I'm Kartik Kenche!
-#### Web Developer | Open Source Enthusiast | Electronics and Communication Engineering Student
+#### Web Developer | Cybersecurity Enthusiast | Electronics and Communication Engineering Student
 ---
 
 **🛠️ Languages and Tools:**
