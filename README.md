@@ -1,131 +1,76 @@
-I’m sorry that the suggestion didn’t meet your expectations. Let me try again and provide you with a better solution!
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-GitHub README files don't support live animations or interactive JavaScript (like a snake running directly within the README itself), but I can guide you on how to make it visually appealing with clever workarounds. Here’s a more **interactive**, **dynamic**, and fun version using available GitHub capabilities, like **GIFs**, **shields**, and **commit animations**.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
 
-### Here’s the new version for your profile:
+<h3 align="center">A passionate software developer from India </h3>
 
----
+<br/>
 
-# 👋 Hi, I’m Kartik! Welcome to my GitHub! 👨‍💻
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Cybersecurity**
 
-I’m a **Web Developer** and **Electronics & Telecommunication Engineer** passionate about exploring new technologies and building impactful solutions. My main areas of interest include **frontend development**, **IoT**, **cybersecurity**, and more. I love learning and collaborating on exciting projects!
+💬 Ask me about **Node.js, React,  or anything [here](https://github.com/salesp07/salesp07/issues)**
 
----
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
-### 🐍 **Snaky Adventure: The Snake in My Commits!** 🐍
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-Watch my **Snaky Game** come to life as I build it through my **commits**. Each time I push changes, the snake **grows** and **moves**! 🎮
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
-<details>
-<summary>Click to watch the Snake grow with commits:</summary>
+<br/>
+<hr/>
 
----
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-- **Commit 1**: The snake starts small... 🐍
+<hr/>
 
-![Commit 1 - Snake Starting](https://media.giphy.com/media/2H5tYyDEyTRiAZUWsM/giphy.gif)
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
----
+<br/><br/>
 
-- **Commit 2**: The snake eats food and grows! 🍏
+<hr/>
 
-![Commit 2 - Snake Eats](https://media.giphy.com/media/4Am8Xr1tToi5WBjyyv/giphy.gif)
+<br/>
 
----
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
 
-- **Commit 3**: The snake avoids obstacles! ⚠️
-
-![Commit 3 - Snake Dodging](https://media.giphy.com/media/WvP0KbHEGSKCKO8lbF/giphy.gif)
-
----
-
----
-
-### 👨‍💻 About Me
-
-- 🌱 **Currently learning**: **Python**, **JavaScript**, and **Cybersecurity**.
-- 💻 I’m building projects like **Snaky Game** and **Expense Tracker**.
-- 🎓 I am an **Electronics Engineer** with a focus on **IoT**.
-- 💬 Reach out to me to talk about **tech**, **coding**, or **new ideas**!
-
----
-
-### 🛠️ Tech Stack
-
-- **Frontend**: HTML, CSS, JavaScript, React, Flutter
-- **Backend**: Node.js, Express.js
-- **Database**: MySQL, MongoDB
-- **Tools**: Git, Docker, GitHub, VS Code
-
----
-
-### 🔥 GitHub Stats
-
-![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
----
-
-### 💼 My Projects
-
-- **[Snaky Game](#)**: Classic snake game with fun animations! Built using **HTML**, **CSS**, and **JavaScript**.
-- **[Expense Tracker](#)**: Web app to track daily expenses and manage your budget.
-- **[Weather App](#)**: Real-time weather app fetching data from a public API.
-
----
-
-### ✨ Let's Connect
-
-- **LinkedIn**: [Kartik’s LinkedIn](https://www.linkedin.com/in/your-profile-link/)
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
-- **Email**: kartik@example.com
-
----
-
-### 🎉 Thanks for visiting my GitHub! Check out my projects, contribute, or get in touch!
-
----
-
-### 💻 My Recent Activity
-
-<!--START_SECTION:activity-->
-- 🎉 Starred the project [Snaky Game](#) 5 hours ago
-- 🛠️ Opened an issue on [Expense Tracker](#) 12 hours ago
-- 🎮 Played **Snaky Game** for 2 hours yesterday
-<!--END_SECTION:activity-->
-
----
-
-### 💡 Fun Animated Commit Journey:
-
-- 🐍 **Commit 1**: Snake moves forward (small and fast)!
-- 🍏 **Commit 2**: Snake eats food, grows longer.
-- ⚠️ **Commit 3**: The snake avoids obstacles to keep going!
-
----
-
-## ✨ Extra Fun Features
-
-Check out how my snake’s journey continues with new commits!
-
----
-
-### 🛠️ Tools I Use
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-### 💬 Let's collaborate! Reach out for exciting new ideas and projects.
-
----
-
-### 💻 **Note**: While we can’t run live JS in the README, we can make it feel animated using **GIFs** and **details sections**.
-
----
-
-### **Why This is Awesome**
-
-- GitHub supports **GIFs** and **interactive features** via **details/summary tags**, so your **Snaky Game** will **animate** with each commit using **fun images**.
-- **Stats**, **badges**, and **commit activities** make the profile lively and show off your ongoing work!
-
-Let me know how this works for you! I’m happy to adjust or improve any part further. :)
+<br/>
