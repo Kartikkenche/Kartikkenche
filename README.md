@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Myself**
  
- 🌱 I’m currently learning **Cybersecurity, DSA ,**
+ 🌱 I’m currently learning **Cybersecurity, DSA**
 
 💬 Ask me about **Node.js, React,  or anything [here]()**
 
